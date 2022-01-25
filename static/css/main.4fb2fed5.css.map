@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4fb2fed5.css","mappings":"kHAGA,KAEE,yBAA6B,CAD7B,QAEF","sources":["index.css"],"sourcesContent":["\n@import url('https://fonts.googleapis.com/css2?family=Mirza:wght@500&family=Saira+Condensed:wght@300&display=swap');\n\nbody {\n  margin: 0;\n  font-family: 'Mirza', cursive; \n}\n\n\n"],"names":[],"sourceRoot":""}
