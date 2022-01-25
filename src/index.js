@@ -119,7 +119,23 @@ const CurrencyConverter = () => {
         }}>
           KWD
         </li>
+    </div> 
+    <footer style={{
+        bottom: '0',
+        position: 'absolute',
+        textAlign: 'center',
+        alignItems: 'center',
+        backgroundColor: 'khaki',
+        width: '100%',
+      }}>
+        &copy; Luis Ramos      
+      <div style={{
+      height: '5px',
+      width: '100%',
+      backgroundColor: 'pink',
+    }}>
     </div>
+      </footer>
   </div>
   );
 };
