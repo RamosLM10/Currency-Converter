@@ -7,13 +7,9 @@ import { render } from '@testing-library/react';
 
 
 const CurrencyConverter = () => {
-  const [uSDAUD, setUSDAUD] = useState("");
   const [first, setFirst] = useState("");
   const [second, setSecond] = useState("");
   const [rate, setRate] = useState("");
-  const [enter, setEnter] = useState("");
-  
-
 
  
 
